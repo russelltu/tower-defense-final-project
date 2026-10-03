@@ -150,6 +150,7 @@ The main source files and documents are listed below. Build outputs and temporar
 - [Final Project Report (Chinese)](期末專題報告.pdf)
 - [Class Diagram](Tower_Defense_Class_Diagram_Visual.pdf)
 - [Logic Flowcharts](Tower_Defense_Logic_Flowcharts.pdf)
+- demo https://youtu.be/9KeUOULW1Uk
 
 ## Current Limitations and Future Improvements
 
